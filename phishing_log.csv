@@ -1,0 +1,133 @@
+https://www.paypal.com/signin,0,phishing,0.99,Safe
+"python -u ""c:\Users\Vanshika\OneDrive\Desktop\phishing_ai_project\urlchecking.py""",0,phishing,0.97,Safe
+http:www.paypal.com,3,phishing,0.99,Phishing
+"python -u ""c:\Users\Vanshika\OneDrive\Desktop\phishing_ai_project\urlchecking.py""",0,phishing,0.97,Safe
+"python -u ""c:\Users\Vanshika\OneDrive\Desktop\phishing_ai_project\urlchecking.py""",0,phishing,0.97,Safe
+https://www.yahoo.com,0,phishing,0.99,Safe
+https://www.google.com,0,phishing,0.99,Safe
+http://abc.com,3,phishing,0.99,Phishing
+https://hazs.com,0,phishing,0.99,Safe
+http://hazs.com,3,phishing,0.99,Phishing
+http://int.xyz,3,phishing,0.99,Phishing
+http://int.in,3,phishing,0.99,Phishing
+https://int.hjhj,0,phishing,0.99,Safe
+http://int.hjhj,3,phishing,0.99,Phishing
+www.abc.com,0,phishing,0.99,Safe
+http://abc.com,3,phishing,0.99,Phishing
+vanshikababbar38@gmail.com,N/A,phishing,0.99,Phishing
+https://www.google.com,N/A,phishing,0.99,Safe
+https://yahoo.com,0,phishing,0.99,Safe
+"From: support@secure-bank123.com
+To: you@example.com
+
+Dear Customer,
+
+We have noticed some unusual activity on your bank account. As a security measure, your account has been temporarily suspended.
+
+To restore access, please verify your identity immediately by clicking the link below:
+
+ Verify Account Now
+
+Failure to verify within 24 hours will result in permanent account suspension.
+
+Thank you for your prompt attention to this matter.
+
+Sincerely,
+Secure Bank Support Team",N/A,phishing,0.98,Phishing
+"Subject: Your July Account Statement is Ready
+
+From: no-reply@hdfcbank.com
+To: you@example.com
+
+Dear Vanshika,
+
+Your monthly account statement for July 2025 is now available.
+
+To view or download your statement securely, please log in to your NetBanking account using the official HDFC Bank website:
+ https://netbanking.hdfcbank.com
+
+If you have any questions, feel free to contact our support team at support@hdfcbank.com or call 1800-202-6161.
+
+Thank you for banking with us.
+Warm regards,
+HDFC Bank Customer Care Team",N/A,phishing,0.98,Phishing
+"Subject: Your July Account Statement is Ready
+
+From: no-reply@hdfcbank.com
+To: you@example.com
+
+Dear Vanshika,
+
+Your monthly account statement for July 2025 is now available.
+
+To view or download your statement securely, please log in to your NetBanking account using the official HDFC Bank website:
+https://netbanking.hdfcbank.com
+
+If you have any questions, feel free to contact our support team at support@hdfcbank.com or call 1800-202-6161.
+
+Thank you for banking with us.
+Warm regards,
+HDFC Bank Customer Care Team",N/A,phishing,0.98,Phishing
+coderroots@ymail.abc,N/A,phishing,0.99,Phishing
+https://google.com,0,phishing,0.99,Safe
+http://abc.com,3,phishing,0.99,Phishing
+"Subject:  Urgent: Account Verification Required
+
+From: support@secure-bank123.com
+To: you@example.com
+
+Dear Customer,
+
+We have noticed some unusual activity on your bank account. As a security measure, your account has been temporarily suspended.
+
+To restore access, please verify your identity immediately by clicking the link below:
+
+Verify Account Now
+
+Failure to verify within 24 hours will result in permanent account suspension.
+
+Thank you for your prompt attention to this matter.
+
+Sincerely,
+Secure Bank Support Team",N/A,phishing,0.96,Phishing
+"Dear Vanshika,
+
+Your monthly account statement for July 2025 is now available.
+
+To view or download your statement securely, please log in to your NetBanking account using the official HDFC Bank website:
+
+ https://netbanking.hdfcbank.com
+
+If you have any questions, feel free to contact our support team at support@hdfcbank.com or call 1800-202-6161.
+
+Thank you for banking with us.
+Warm regards,
+HDFC Bank Customer Care Team",N/A,phishing,0.99,Phishing
+https:\\google.com,3,phishing,0.98,Phishing
+https://google.com,0,phishing,0.99,Safe
+https://artbyprab.com,0,phishing,0.99,Safe
+https://amazon.ca,0,phishing,0.99,Safe
+https://fponadala.com,0,phishing,0.99,Safe
+https://fponadala.xyz,0,phishing,0.99,Safe
+https://yahoo.com,0,phishing,0.99,Safe
+https://yahoo.com,0,phishing,0.99,Safe
+https://yahoo.com,0,phishing,0.99,Safe
+https://yahoo.com,0,phishing,0.99,Safe
+https://yahoo.com,0,phishing,0.99,Safe
+https://yahoo.com,0,phishing,0.99,Safe
+https://yahoo.com,0,phishing,0.99,Safe
+https://google.com,0,phishing,0.99,Safe
+https://google.com,0,phishing,0.99,Safe
+https://google.com,0,phishing,0.99,Safe
+https://google.com,0,phishing,0.99,Safe
+https://google.com,0,phishing,0.99,Safe
+https://google.com,0,phishing,0.99,Safe
+https://google.com,0,phishing,0.99,Safe
+http://abc.com,3,phishing,0.99,Phishing
+itskomal2829@gmail.com,N/A,phishing_url,0.85,Phishing
+vanshikababbar38@gmail.com,N/A,legitimate_url,0.99,Safe
+http://127.0.0.1:7860/,5,phishing,0.99,Phishing
+https://google.com,0,phishing,0.99,Safe
+http:cghf.in,3,phishing,0.99,Phishing
+https:google.com,3,phishing,0.99,Phishing
+https://google.com,0,phishing,0.99,Safe
