@@ -148,7 +148,8 @@ input, textarea, button, label, .gr-box, .gr-button, .gr-textbox, .gr-radio, .gr
     detect_button.click(fn=run_detector, inputs=[input_text, input_type], outputs=[result_output, log_file_output])
 
     
-demo.launch()
+demo.launch(share=True)
+
 
 
 
