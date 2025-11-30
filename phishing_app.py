@@ -87,7 +87,6 @@ def combined_phishing_detector(url, input_type, log=True):
         rule_result = "Not Applicable"
         final_decision = "Phishing" if bert_label.startswith("phishing") and bert_score > 0.7 else "Safe"
 
-    # ✅ This part was missing in your message
     if log:
         log_to_csv(url, rule_score, bert_label, bert_score, final_decision)
 
@@ -150,5 +149,6 @@ input, textarea, button, label, .gr-box, .gr-button, .gr-textbox, .gr-radio, .gr
 
     
 demo.launch()
+
 
 
